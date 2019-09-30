@@ -1,0 +1,154 @@
+---
+title: "Daniel Jachetta's resume"
+author: Daniel Jachetta III
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> ddjachetta@mail.fhsu.edu   
+<i class="fa fa-github"></i>
+[Github/Danieldavid521](https://github.com/Danieldavid521)   
+<i class="fas fa-chart-area"></i>
+[rpubs/Daniel_David_521](http://rpubs.com/Daniel_David_521/)<br/>
+<i class="fas fa-phone"></i> Please email me for cell number
+
+
+
+
+Skills {#skills}
+-------------------------------------------------------------------
+
+
+- Experience with computer networking and software lifecycles
+
+- Experience with R, Bash, HTML, SQL, and Python
+
+- Experience with Windows, Windows Server, Mac OSX, and Linux operating systems
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Find this resume in HTML at [rpubs.com/Daniel_David_521/resume](http://rpubs.com/Daniel_David_521/resume)
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Daniel Jachetta III {#title}
+---------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+---------------------------------------------------------------------------------
+
+### Fort Hays State University
+Bachelor of Business Administration<br/>
+Major: Management Information Systems
+
+Hays, Kansas
+
+December 2019
+
+Related coursework
+
+- Business Management
+- Managerial Finance
+- Programming With Python
+- Big Data Analytics
+- Production Operations Management
+
+Research Experience {data-icon=laptop}
+---------------------------------------------------------------------------------
+
+### Undergraduate Research Assistant
+
+Fort Hays State University
+
+Hays, Kansas
+
+Jan 2019 - May 2019
+
+- Utilizing wearable technology to better understand the human experience
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Network Operations Specialist
+
+Commerce Bank
+
+Kansas City, Mo
+
+2019-Present
+
+
+- Monitor enterprise network, devices, and systems
+- Grant, remove, and verify user accounts and access to business critical servers
+- Responsive problem solving in Data Center Operations 
+- Coordinate and deligate responsibilities with departments to solve urgent problems
+
+### Testing Specialist
+
+Cloud Storage Corp
+
+Hays, Kansas
+
+2017-2019
+
+
+- Quality control
+- Attention to detail regarding; serial numbers, special part numbers, conditions, and quantities
+- Follow and update procedures to maximize product dependability
+
+### Tier 2 Student Technician
+
+Fort Hays State University
+
+Hays, Kansas
+
+2015 - 2017
+
+- Remote and on-site technical support for faculty and staff
+- Decommissioned, deployed, repaired, maintained, and updated computers and devices
+- Responsible for self-assigning tickets and resolving issues
+
+
+Activities {data-icon=project-diagram}
+--------------------------------------------------------------------------------
+### RStudio::Conf
+
+Attended RStudio workshops and seminars
+
+Austin, Texas
+
+January, 2019
+
+### ISC^2 Chapter Member 
+
+attend monthly meeting and participate in<br/> Cyber security discussions
+
+Kansas City, Missouri
+
+2019-Preset
+
+
+
+
+
+
+
+
